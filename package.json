@@ -1,0 +1,26 @@
+{
+  "name": "validator-tckimlik",
+  "version": "1.0.0",
+  "description": "TCKimlik (Turkish Republic identity) number validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cakuki/validator-tckimlik.git"
+  },
+  "keywords": [
+    "validator",
+    "identity",
+    "tckimlik",
+    "tck",
+    "kimlik"
+  ],
+  "author": "Can Kutlu Kinay <me@ckk.im>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cakuki/validator-tckimlik/issues"
+  },
+  "homepage": "https://github.com/cakuki/validator-tckimlik#readme"
+}
